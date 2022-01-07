@@ -1,6 +1,6 @@
 # Airplane-Crashes-Fatalities-From-1908-to-2009
 ## Summary 
-Python module that takes airplane crash data from a CSV file, turns the data into dataframes using pandas, plots the data on a graph using matplotlib, fits linear regression models using statsmodel, and fits nonlinear regression models using scipy.
+Python module that takes airplane crash data from a CSV file, turns the data into dataframes using pandas, plots the data on a graph using matplotlib, and fits linear and nonlinear regression models to the graphs using scipy.
 
 ## Dependencies
 - python: 3.6.5
